@@ -33,7 +33,7 @@ Shows a recap of yesterday's VR session, today's missions to try in real life, a
 On iPhone: open the link in Safari → Share → "Add to Home Screen". The app shows up like a native icon.
 
 ### Android (install the APK)
-Download **[`SocialMind.apk`](./SocialMind.apk)** from this branch and tap it on your phone to install. You'll need to allow "Install from unknown sources" the first time.
+Download **`SocialMind.apk`** from the [latest release](https://github.com/Valdik12/SocialMind/releases/latest) and tap it on your phone to install. You'll need to allow "Install from unknown sources" the first time.
 
 ---
 
